@@ -1,2 +1,2 @@
-# writing-experiments
+# writing-experiments.github.io
 Writing Experiements
